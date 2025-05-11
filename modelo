@@ -66,7 +66,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aiXELcgAd8DPKkCMhczu-3" value="inventario" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="550" y="910" width="100" height="40" as="geometry" />
+          <mxGeometry x="460" y="670" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aiXELcgAd8DPKkCMhczu-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" edge="1" parent="1" source="aiXELcgAd8DPKkCMhczu-4" target="aiXELcgAd8DPKkCMhczu-79">
           <mxGeometry relative="1" as="geometry">
@@ -142,7 +142,7 @@
           <mxGeometry x="680" y="450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aiXELcgAd8DPKkCMhczu-33" value="(0,1)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#ffffff;fillColor=light-dark(#0050EF,#B9CCDA);strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="590" y="880" width="60" height="30" as="geometry" />
+          <mxGeometry x="570" y="650" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aiXELcgAd8DPKkCMhczu-21" value="(1,N)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#ffffff;fillColor=light-dark(#0050EF,#B9CCDA);strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="680" width="60" height="30" as="geometry" />
@@ -301,13 +301,16 @@
           <mxGeometry x="756" y="210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aiXELcgAd8DPKkCMhczu-90" value="Codigo libro" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="1">
-          <mxGeometry x="530" y="780" width="100" height="40" as="geometry" />
+          <mxGeometry x="455" y="570" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aiXELcgAd8DPKkCMhczu-91" value="Codigo editorial" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="1">
-          <mxGeometry x="390" y="780" width="100" height="40" as="geometry" />
+          <mxGeometry x="315" y="570" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aiXELcgAd8DPKkCMhczu-92" value="cantidad" style="ellipse;whiteSpace=wrap;html=1;align=center;strokeColor=#FFFFFF;fontColor=#FFFFFF;fillColor=#182E3E;" vertex="1" parent="1">
-          <mxGeometry x="260" y="780" width="100" height="40" as="geometry" />
+          <mxGeometry x="185" y="570" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aiXELcgAd8DPKkCMhczu-97" value="(0,1)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#ffffff;fillColor=light-dark(#0050EF,#B9CCDA);strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="770" y="630" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
